@@ -1,4 +1,4 @@
-<h1 align="Center"> 👋 Hi, I’m <a href="www.linkedin.com/in/ajit-sohal"> Ajit Sohal </a> </h1> 
+<h1 align="Center"> 👋 Hi, I’m <a href="www.linkedin.com/in/ajit-sohal"> Ajit Singh </a> </h1> 
 
 ### I’m interested in making innovative things
 ### I’m currently persuing Mehctronics
