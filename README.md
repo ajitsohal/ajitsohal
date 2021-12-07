@@ -23,7 +23,6 @@
 <hr>
 <p>
   <a align= "center" href="https://github.com/ajitsohal">
-
     <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ajitsohal&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=1F6FEA&title_color=38D252&border_color=FEFEFE" />
     <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitsohal&theme=github-dark&border=FEFEFE">
   </a>
