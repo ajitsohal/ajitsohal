@@ -1,4 +1,4 @@
-<h1 align="Center">  <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="50" valign="middle"> Hi, I’m <a href="https://www.linkedin.com/in/ajit-sohall"> Ajit Singh</a> <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="50" valign="middle">  </h1> 
+<h1 align="Center">  <img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="80" valign="middle"> Hi, I’m <a href="https://www.linkedin.com/in/ajit-sohall"> Ajit Singh</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="80" valign="middle">  </h1> 
 
 <h3>
    <img align="right" alt="GIF" height="200px" src="https://www.linkpicture.com/q/31D10869-B2FA-465E-A209-7CC1BF2DC4F1-2_1.png">
