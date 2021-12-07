@@ -1,7 +1,10 @@
 <h1 align="Center">  <img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="50" valign="middle"> Hi, I’m <a href="https://www.linkedin.com/in/ajit-sohall"> Ajit Singh</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="50" valign="middle">  </h1> 
+	
 
 <h3>
+   
    <img align="right" alt="GIF" height="200px" src="https://www.linkpicture.com/q/31D10869-B2FA-465E-A209-7CC1BF2DC4F1-2_1.png">
+   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 • 👀 I’m interested in making innovative things <br><br>
 • 💻 I’m currently persuing Mehctronics<br><br>
 • 🤝🏻 I’m looking to collaborate on Desingning and Arduino Based Projects.<br><br>
