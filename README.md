@@ -24,6 +24,9 @@
 </h3>
 <br>
 <hr>
+
+
+
 <p>
   <a align= "center" href="https://github.com/ajitsohal">
     <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ajitsohal&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
@@ -31,4 +34,6 @@
   </a>
 </p>
 
-![Shalabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajitsohal&bg_color=0D1117&color=38D252&point=FEFEFE&line=FF0000&hide_title=true)
+![Ajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajitsohal&bg_color=0D1117&color=38D252&point=FEFEFE&line=FF0000&hide_title=true)
+
+ <img src="https://raw.githubusercontent.com/idivyanshbansal/idivyanshbansal/output/github-contribution-grid-snake.svg">
